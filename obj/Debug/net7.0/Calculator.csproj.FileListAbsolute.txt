@@ -1,0 +1,15 @@
+G:\C#\alculator refacor\Calculator\bin\Debug\net7.0\Calculator.exe
+G:\C#\alculator refacor\Calculator\bin\Debug\net7.0\Calculator.deps.json
+G:\C#\alculator refacor\Calculator\bin\Debug\net7.0\Calculator.runtimeconfig.json
+G:\C#\alculator refacor\Calculator\bin\Debug\net7.0\Calculator.dll
+G:\C#\alculator refacor\Calculator\bin\Debug\net7.0\Calculator.pdb
+G:\C#\alculator refacor\Calculator\obj\Debug\net7.0\Calculator.csproj.AssemblyReference.cache
+G:\C#\alculator refacor\Calculator\obj\Debug\net7.0\Calculator.GeneratedMSBuildEditorConfig.editorconfig
+G:\C#\alculator refacor\Calculator\obj\Debug\net7.0\Calculator.AssemblyInfoInputs.cache
+G:\C#\alculator refacor\Calculator\obj\Debug\net7.0\Calculator.AssemblyInfo.cs
+G:\C#\alculator refacor\Calculator\obj\Debug\net7.0\Calculator.csproj.CoreCompileInputs.cache
+G:\C#\alculator refacor\Calculator\obj\Debug\net7.0\Calculator.dll
+G:\C#\alculator refacor\Calculator\obj\Debug\net7.0\refint\Calculator.dll
+G:\C#\alculator refacor\Calculator\obj\Debug\net7.0\Calculator.pdb
+G:\C#\alculator refacor\Calculator\obj\Debug\net7.0\Calculator.genruntimeconfig.cache
+G:\C#\alculator refacor\Calculator\obj\Debug\net7.0\ref\Calculator.dll

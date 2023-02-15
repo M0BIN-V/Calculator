@@ -1,6 +1,0 @@
-C:\Users\MOBIN\Desktop\Calculator\calculator\bin\Debug\calculator.exe.config
-C:\Users\MOBIN\Desktop\Calculator\calculator\bin\Debug\calculator.exe
-C:\Users\MOBIN\Desktop\Calculator\calculator\bin\Debug\calculator.pdb
-C:\Users\MOBIN\Desktop\Calculator\calculator\obj\Debug\calculator.csprojResolveAssemblyReference.cache
-C:\Users\MOBIN\Desktop\Calculator\calculator\obj\Debug\calculator.exe
-C:\Users\MOBIN\Desktop\Calculator\calculator\obj\Debug\calculator.pdb
